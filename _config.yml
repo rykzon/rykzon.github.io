@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+title: Rene Warnke
+url: "https://fotos.warnke.cloud"
 baseurl:
 google_analytics_key:
 
@@ -14,9 +14,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Aperture Template
+  name: Mastodon
   links:
-    - https://github.com/CloudCannon/aperture-jekyll-template
+    - https://digitalcourage.social/@ReneWarnke
 
 # -----
 # Build
